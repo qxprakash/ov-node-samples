@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "opencv-wasm": "^4.3.0-10",
+    "openvino-node": "^2024.1.0"
+  }
+}
